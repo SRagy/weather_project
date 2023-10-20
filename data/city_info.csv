@@ -1,0 +1,151 @@
+Country,Location,Climate,Lat/Lon,GDP per capita (PPP)
+Afghanistan,Kabul,17,POINT (69.137 34.531),1500.0
+Albania,Tirana,8,POINT (19.82 41.331),14500.0
+Algeria,Algiers,8,POINT (3.032 36.766),11000.0
+American Samoa,Pago Pago,1,POINT (-170.703 -14.278),11200.0
+Angola,Luanda,6,POINT (13.235 -8.811999999999999),5900.0
+Antigua and Barbuda,St. John's,3,POINT (-61.85 17.117),19100.0
+Argentina,Buenos Aires,14,POINT (-58.437 -34.608),21500.0
+Armenia,Yerevan,7,POINT (44.533 40.208),14200.0
+Australia,Melbourne,15,POINT (144.967 -37.812),49800.0
+Australia,Perth,8,POINT (115.861 -31.953),49800.0
+Australia,Sydney,14,POINT (151.209 -33.87),49800.0
+Austria,Vienna,26,POINT (16.372 48.208),54100.0
+Bangladesh,Dhaka,3,POINT (90.407 23.71),5900.0
+Belarus,Minsk,26,POINT (27.576 53.9),19800.0
+Belgium,Brussels,15,POINT (4.353 50.85),51700.0
+Bolivia,La Paz,29,POINT (-68.146 -16.499),8100.0
+Brazil,Brasília,3,POINT (-47.888 -15.794),14600.0
+Brazil,Manaus,1,POINT (-60.023 -3.135),14600.0
+Brazil,Recife,2,POINT (-34.889 -8.063000000000001),14600.0
+Brazil,Rio de Janeiro,3,POINT (-43.228 -22.877),14600.0
+Brazil,São Paulo,14,POINT (-46.57 -23.567),14600.0
+Bulgaria,Sofia,26,POINT (23.337 42.686),24400.0
+Burundi,Bujumbura,3,POINT (29.356 -3.372),700.0
+Cambodia,Phnom Penh,3,POINT (104.913 11.565),4400.0
+Canada,Montreal,25,POINT (-73.574 45.506),47900.0
+Canada,Ottawa,26,POINT (-75.702 45.422),47900.0
+Canada,Toronto,25,POINT (-79.38 43.649),47900.0
+Canada,Vancouver,15,POINT (-123.118 49.283),47900.0
+Chile,Santiago,8,POINT (-70.65900000000001 -33.446),25400.0
+China,Beijing,21,POINT (116.407 39.917),17600.0
+China,Shanghai,14,POINT (121.444 31.232),17600.0
+Colombia,Bogota,15,POINT (-74.077 4.628),14600.0
+Costa Rica,San Jose,2,POINT (-84.09399999999999 9.923),21200.0
+Cote D'Ivoire,Abidjan,2,POINT (-4.026 5.323),5300.0
+Cuba,Havana,2,POINT (-82.389 23.117),12300.0
+Cyprus,Nicosia,6,POINT (33.369 35.171),41700.0
+Czechia,Prague,26,POINT (14.421 50.088),40700.0
+Democratic Republic of the Congo,Kinshasa,3,POINT (15.298 -4.316),3200.0
+Denmark,Copenhagen,26,POINT (12.496 55.658),59700.0
+Dominican Republic,Santo Domingo,1,POINT (-69.94 18.487),18600.0
+Ecuador,Quito,29,POINT (-78.524 -0.229),10700.0
+Egypt,Cairo,4,POINT (31.255 30.084),11600.0
+El Salvador,San Salvador,3,POINT (-89.2 13.701),9100.0
+Estonia,Tallinn,26,POINT (24.771 59.437),38700.0
+Finland,Helsinki,26,POINT (24.939 60.17),49600.0
+France,Paris,15,POINT (2.351 48.857),45000.0
+Georgia,Tbilisi,7,POINT (44.783 41.722),15500.0
+Germany,Berlin,26,POINT (13.406 52.518),53200.0
+Gibraltar,Gibraltar,8,POINT (-5.345 36.116),61700.0
+Greece,Athens,8,POINT (23.728 37.984),29500.0
+Haiti,Port-au-prince,3,POINT (-72.343 18.543),2900.0
+Hong Kong,Hong Kong,11,POINT (114.174 22.369),60000.0
+Hungary,Budapest,25,POINT (19.05 47.504),33600.0
+Iceland,Reykjavik,27,POINT (-21.902 64.137),53600.0
+India,Bengaluru,3,POINT (77.57899999999999 12.991),6600.0
+India,Chennai,3,POINT (80.245 13.038),6600.0
+India,Delhi,6,POINT (77.11799999999999 28.643),6600.0
+India,Hyderabad,6,POINT (78.464 17.384),6600.0
+India,Kolkata,3,POINT (88.35299999999999 22.526),6600.0
+India,Mumbai,2,POINT (72.878 19.143),6600.0
+Indonesia,Banda Aceh,1,POINT (95.348 5.573),11900.0
+Indonesia,Jakarta,1,POINT (106.827 -6.175),11900.0
+Iran,Tehran,7,POINT (51.407 35.701),15000.0
+Iraq,Baghdad,4,POINT (44.386 33.328),9000.0
+Ireland,Dublin,15,POINT (-6.272 53.343),102500.0
+Israel,Jerusalem,8,POINT (35.225 31.774),42100.0
+Israel,Tel Aviv,8,POINT (34.77 32.045),42100.0
+Italy,Rome,8,POINT (12.511 41.892),41900.0
+Jamaica,Kingston,3,POINT (-76.768 17.975),9600.0
+Japan,Osaka-shi,14,POINT (135.5 34.667),40800.0
+Japan,Tokyo,14,POINT (139.809 35.683),40800.0
+Kazakhstan,Nur-Sultan,7,POINT (71.43300000000001 51.167),26100.0
+Kenya,Nairobi,15,POINT (36.804 -1.27),4700.0
+Laos,Vientiane,3,POINT (102.612 17.965),7800.0
+Latvia,Riga,26,POINT (24.105 56.943),32100.0
+Libya,Tripoli,6,POINT (13.187 32.878),22000.0
+Lithuania,Vilnius,26,POINT (25.276 54.689),39300.0
+Malaysia,Kuala Lumpur,1,POINT (101.712 3.158),26300.0
+Maldives,Male,2,POINT (73.51000000000001 4.175),18800.0
+Mexico,Mexico City,12,POINT (-99.133 19.433),19100.0
+Mongolia,Ulan Bator,23,POINT (106.912 47.929),11700.0
+Morocco,Rabat,8,POINT (-6.833 34.015),8100.0
+Myanmar,Yangon,2,POINT (96.15000000000001 16.798),4000.0
+Nepal,Kathmandu,11,POINT (85.31699999999999 27.702),3800.0
+Netherlands,Amsterdam,15,POINT (4.9 52.372),56600.0
+New Zealand,Auckland,15,POINT (174.766 -36.847),42900.0
+New Zealand,Wellington,15,POINT (174.776 -41.286),42900.0
+Nigeria,Lagos,3,POINT (3.428 6.45),4900.0
+North Korea,Pyongyang,21,POINT (125.776 39.014),1700.0
+Norway,Oslo,26,POINT (10.74 59.913),67500.0
+Pakistan,Islamabad,11,POINT (73.07599999999999 33.71),5200.0
+Pakistan,Karachi,4,POINT (67.029 24.89),5200.0
+Panama,Panama City,2,POINT (-79.517 9.003),29000.0
+Papua New Guinea,Port Moresby,3,POINT (147.189 -9.48),3700.0
+Paraguay,Asuncion,3,POINT (-57.622 -25.305),13700.0
+Peru,Lima,4,POINT (-77.045 -12.082),12500.0
+Philippines,Manila,3,POINT (120.982 14.59),8100.0
+Poland,Warsaw,26,POINT (21.007 52.232),34900.0
+Portugal,Lisbon,8,POINT (-9.135999999999999 38.707),33700.0
+Puerto Rico,San Juan,1,POINT (-66.10599999999999 18.466),32600.0
+Romania,Bucharest,25,POINT (26.104 44.436),30800.0
+Russia,Moscow,26,POINT (37.619 55.752),28000.0
+Russia,Novosibirsk,26,POINT (82.923 55.028),28000.0
+Russia,Saint Petersburg,26,POINT (30.315 59.939),28000.0
+Saudi Arabia,Jeddah,4,POINT (39.173 21.543),44300.0
+Saudi Arabia,Riyadh,4,POINT (46.753 24.64),44300.0
+Senegal,Dakar,6,POINT (-17.452 14.687),3500.0
+Serbia,Belgrade,14,POINT (20.464 44.817),19800.0
+Singapore,Singapore,1,POINT (103.843 1.311),106000.0
+Slovakia,Bratislava,26,POINT (17.13 48.155),31900.0
+Somalia,Mogadishu,6,POINT (45.344 2.041),1100.0
+South Africa,Cape Town,9,POINT (18.482 -33.979),13300.0
+South Africa,Johannesburg,12,POINT (28.004 -26.179),13300.0
+South Korea,Busan,14,POINT (129.101 35.215),44200.0
+South Korea,Seoul,21,POINT (126.97 37.537),44200.0
+Spain,Barcelona,8,POINT (2.177 41.385),37900.0
+Spain,Madrid,7,POINT (-3.686 40.41),37900.0
+Sri Lanka,Colombo,1,POINT (79.872 6.927),13400.0
+Sudan,Khartoum,4,POINT (32.519 15.591),3700.0
+Suriname,Paramaribo,1,POINT (-55.174 5.824),14800.0
+Sweden,Stockholm,26,POINT (18.069 59.314),54800.0
+Syria,Aleppo,8,POINT (37.159 36.216),2900.0
+Taiwan,Taipei City,14,POINT (121.514 25.048),47800.0
+Tajikistan,Dushanbe,7,POINT (68.77500000000001 38.559),3900.0
+Tanzania,Dar es Salaam,3,POINT (39.27 -6.823),2600.0
+Thailand,Bangkok,3,POINT (100.521 13.731),17100.0
+Timor-Leste,Dili,3,POINT (125.581 -8.571),5000.0
+Tunisia,Tunis,8,POINT (10.166 36.819),10400.0
+Turkey,Istanbul,8,POINT (28.958 41.011),31500.0
+Turkmenistan,Ashgabat,5,POINT (58.39 37.95),15000.0
+Ukraine,Kyiv,26,POINT (30.524 50.45),10700.0
+United Arab Emirates,Abu Dhabi,4,POINT (54.358 24.469),69700.0
+United Kingdom,London,15,POINT (-0.107 51.514),46800.0
+United States,Anchorage,19,POINT (-149.9 61.218),63700.0
+United States,Chicago,25,POINT (-87.65000000000001 41.85),63700.0
+United States,Dallas,14,POINT (-96.807 32.783),63700.0
+United States,Denver,7,POINT (-104.985 39.739),63700.0
+United States,Honolulu,3,POINT (-157.845 21.326),63700.0
+United States,Los Angeles,8,POINT (-118.244 34.052),63700.0
+United States,Miami,2,POINT (-80.194 25.774),63700.0
+United States,New York,25,POINT (-73.96899999999999 40.779),63700.0
+United States,San Francisco,9,POINT (-122.419 37.775),63700.0
+United States,Seattle,9,POINT (-122.332 47.606),63700.0
+Uruguay,Montevideo,14,POINT (-56.165 -34.881),22800.0
+Uzbekistan,Tashkent,8,POINT (69.26900000000001 41.305),7700.0
+Venezuela,Caracas,3,POINT (-66.898 10.496),7704.0
+Vietnam,Hanoi,11,POINT (105.7 20.999),10600.0
+Vietnam,Ho Chi Minh City,3,POINT (106.702 10.775),10600.0
+Yemen,Sana'a,4,POINT (44.209 15.361),2500.0
+Zimbabwe,Harare,12,POINT (31.05 -17.823),2100.0
