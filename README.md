@@ -4,7 +4,7 @@ This purpose of this project is several fold: data science practice, CV-padding 
 
 I am not a weather company, so I do not have direct access to advance meteorological data, nor any desire to get that deep into things for a personal project. What I can access, however, is the predictions of others. This project works on data scraped from accuweather. The data was scraped over a period of about 40 days in 2020 when this project was initiated.
 
-Subsequently, I did nothing with the project for the next three years, but recently had the opportunity and good reason to return to it and finally process some of the data. The whole process is summarised below, and complete detail is present in the included notebooks.
+Subsequently, I did nothing with the project for the next three years, but recently had the opportunity and good reason to return to it and finally process some of the data. The whole process is summarised below, and complete detail (including all the relevant code) is present in the included notebooks.
 
 ## What questions do we want to answer?
 The initial angle for this project came from the observation that some weather companies claim forecasts for months in advance. This seems [ambitious](https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/04/11/accuweather-extends-its-controversial-45-day-weather-forecasts-to-90-days/), since 90 days is a season.
@@ -41,7 +41,7 @@ However, in lieu of this, we can look at an informative proxy: if the weather fo
 
 ![mean_error](results/mean_error.png)
 
-The above plots show something interesting. The mean absolute error does not meaningfully increase between about 14-25 days. There is an uptick after this, but I believe it may be due to the scarcity of my own collected data that far out in advance. Hence, predicting 15 days in advance is about as good as 25 days in advance, suggesting that advance meteorological data has not got a large impact.
+The above plots show something interesting. The mean absolute error does not meaningfully increase between about 14-25 days. There is an uptick after this, but I believe it may be an artefact due to the scarcity of my own collected data that far out in advance, i.e. a small sample size. Hence, predicting 15 days in advance is about as good as 25 days in advance, suggesting that advance meteorological data has not got a large impact.
 
 Even more interesting is the sharp drop in the standard deviation of the absolute error. To me this suggests the possibility that the predictive model used by accuweather changes after the two-week mark, possibly to one reliant primarily on historical data.
 
