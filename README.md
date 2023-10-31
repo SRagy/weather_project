@@ -9,9 +9,7 @@ Subsequently, I did nothing with the project for the next three years, but recen
 ## What questions do we want to answer?
 The initial angle for this project came from the observation that some weather companies claim forecasts for months in advance. This seems [ambitious](https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/04/11/accuweather-extends-its-controversial-45-day-weather-forecasts-to-90-days/), since 90 days is a season.
 
-By collecting data over a long period it should be possible to assess if these advance forecasts are worth much. I have some data visualisations which put into doubt whether this is particularly useful. As I continue to work on this project, I hope to create some simple models based purely on historical data to see if these can compete with these far-in-advance forecasts, or if there really is something more to it.
-
-After gathering the data, I realised there were other interesting questions I could address, with the added benefit of getting practice wrangling more real-world data. I hence address these 3 questions:
+By collecting data over a long period it should be possible to assess if these advance forecasts are worth much. However, after I had gathered this data, I realised there were other interesting questions I could address, with the added benefit of getting practice wrangling more real-world data. I will thus address these 3 questions:
 
 - Are weather predictions more than 2 weeks in advance informative?
 - How much does climate type (e.g. tropical, continental, polar) influence weather predictability?
@@ -28,7 +26,7 @@ Additional data containing climate and GDP information has been downloaded from 
 ### Cleaning
 The data is processed in [data_preparation.ipynb](data_preparation.ipynb). We generate two dataframes
 
-1. A pandas dataframe multi-indexed by 1. city, 2. high/low prediction and 3. forecasted date, i.e. the date we want to know the weather for. The columns indicate collection date offset, i.e. how many days ago the forecast was collected, so we will have many forecasts collected at various points in advance for a single day. The data is the absolute error between the temp on the day the forecast was collected and the observed temp.
+1. A pandas dataframe multi-indexed by 1. city, 2. high/low prediction and 3. forecasted date, i.e. the date we want to know the weather for. The columns indicate collection date offset, i.e. how many days ago the forecast was collected, so we will have many forecasts collected at various points in advance for a single day. The data is the absolute error between the temperature on the day the forecast was collected and the observed temperature.
 2. A geopandas dataframe, indexed by city. It includes the climate classification, the coordinates in Lat/Lon format and purchasing power parity-adjusted GDP for the countries containing the cities.
 
 
